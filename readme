@@ -1,0 +1,8 @@
+1. buka terminal
+2. run program di terminal, contoh:
+
+Masukan kode ini di terminal:
+javac TestHello.java
+java TestHello
+
+Lakukan untuk script yang lainnya ya
